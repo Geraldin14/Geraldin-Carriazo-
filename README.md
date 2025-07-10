@@ -1,6 +1,9 @@
-
 <h1 align="center">👋 ¡Hola! Soy Geraldin Carriazo</h1>
 <p align="center">🚀 Analista de Datos | Ingeniera de Sistemas | Visualización Estratégica</p>
+
+<p align="center">
+  💫 <strong>¡Bienvenid@ a mi perfil de GitHub!</strong> Aquí comparto mi camino en el mundo del análisis de datos y la tecnología. ¡Explora mis proyectos y acompáñame en esta aventura de datos! 📊✨
+</p>
 
 ---
 
@@ -9,9 +12,9 @@
 Soy **Geraldin Carriazo**, Ingeniera de Sistemas enfocada en análisis de datos, apasionada por convertir datos en información clara, visual y accionable que impulse decisiones inteligentes.
 
 🎯 Acompaño a empresas y equipos en la transformación de sus procesos mediante:
-- Análisis estratégico de datos
-- Automatización de reportes
-- Visualización efectiva para la toma de decisiones
+- 📈 Análisis estratégico de datos  
+- ⚙️ Automatización de reportes  
+- 📊 Visualización efectiva para la toma de decisiones
 
 Mi enfoque combina **técnica + empatía**: escucho, interpreto y diseño soluciones que generan resultados reales. Ya sea optimizando KPIs, mejorando la experiencia del usuario o facilitando decisiones basadas en datos, siempre busco impacto.
 
@@ -27,8 +30,6 @@ Mi enfoque combina **técnica + empatía**: escucho, interpreto y diseño soluci
 | Excel avanzado, Dashboards y KPIs | R (análisis estadístico, modelado)               | Azure Data Studio, AWS S3, Databricks          |
 | Data Studio, Looker                | SQL (consultas, joins, limpieza de datos)        | Apache Hive, Airflow (orquestación de flujos)  |
 | Canva para reporting visual        | Jupyter Notebook, VS Code                        | Git, GitHub, Notion para documentación         |
-
-
 
 ---
 
@@ -50,3 +51,10 @@ Consulta mis proyectos, visualizaciones y casos de estudio en:
 <p align="center">
   <em>“El poder del análisis no está solo en ver los datos, sino en saber cómo contarlos.”</em>
 </p>
+
+---
+
+<p align="center">
+  🙌 <strong>¡Gracias por visitar mi perfil!</strong> Si algo te inspira o te interesa, no dudes en contactarme. ¡Conectemos y creemos algo increíble juntos! 💬💻
+</p>
+
