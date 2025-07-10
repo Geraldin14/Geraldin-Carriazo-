@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="foto%20maquillada.png" alt="Geraldin Carriazo" width="200" style="border-radius: 50%;">
-</p>
 
-<h1 align="center">👋 ¡Hola! Soy Geraldin Carriazo</h1>
-<p align="center">🚀 Analista de Datos | Ingeniera de Sistemas | Visualización Estratégica</p>
+<h1 align="center">👋 Hola Soy Geraldin Carriazo </h1>
+<p align="center">🚀 Ingeniera de Sistemas | Analista de Datos | Visualización Estratégica</p>
 
 ---
 
@@ -31,20 +28,25 @@ Mi enfoque combina **técnica + empatía**: escucho, interpreto y diseño soluci
 | Data Studio, Looker                | SQL (consultas, joins, limpieza de datos)        | Apache Hive, Airflow (orquestación de flujos)  |
 | Canva para reporting visual        | Jupyter Notebook, VS Code                        | Git, GitHub, Notion para documentación         |
 
----
 
-## 💼 Áreas en las que me destaco
-
-✅ Diseño de dashboards interactivos e intuitivos para toma de decisiones  
-✅ Automatización de reportes y procesos de análisis con Python y SQL  
-✅ Limpieza, transformación y visualización de grandes volúmenes de datos  
-✅ Análisis de KPIs operativos y estratégicos para mejorar resultados  
-✅ Traducción de necesidades del negocio en soluciones basadas en datos  
-✅ Comunicación clara de hallazgos a equipos técnicos y no técnicos  
 
 ---
 
-## 📂 Proyectos en marcha
+## 🌐 Portafolio Profesional
 
-Actualmente estoy trabajando en la construcción de dashboards interactivos, análisis exploratorios y modelos predictivos que reflejan mi enfoque técni
+Consulta mis proyectos, visualizaciones y casos de estudio en:  
+🔗 [Portafolio en Notion](https://www.notion.so/Portafolio-Analistas-de-Datos-Geraldin-Carriazo-222286f5d5408003b6a2f66a58adc572?source=copy_link)
 
+---
+
+## 📬 Contacto
+
+- 📧 Correo: geraldincarriazo09@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/geraldin-carriazo](https://www.linkedin.com/in/geraldin-carriazo/)  
+- 📍 Ubicación: Cartagena, Colombia
+
+---
+
+<p align="center">
+  <em>“El poder del análisis no está solo en ver los datos, sino en saber cómo contarlos.”</em>
+</p>
