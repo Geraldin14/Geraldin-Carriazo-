@@ -1,6 +1,6 @@
 
-<h1 align="center">👋 Hola Soy Geraldin Carriazo </h1>
-<p align="center">🚀 Ingeniera de Sistemas | Analista de Datos | Visualización Estratégica</p>
+<h1 align="center">👋 ¡Hola! Soy Geraldin Carriazo</h1>
+<p align="center">🚀 Analista de Datos | Ingeniera de Sistemas | Visualización Estratégica</p>
 
 ---
 
