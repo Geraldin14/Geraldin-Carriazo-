@@ -1,3 +1,9 @@
+<p align="center">✨ Gracias por visitar mi perfil ✨</p>
+
+<p align="center">
+  <img src="geraldin.png" alt="Geraldin Carriazo" width="200" style="border-radius: 50%;">
+</p>
+
 <h1 align="center">👋 ¡Hola! Soy Geraldin Carriazo</h1>
 <p align="center">🚀 Analista de Datos | Ingeniera de Sistemas | Visualización Estratégica</p>
 
