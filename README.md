@@ -1,7 +1,5 @@
-<p align="center">✨ Gracias por visitar mi perfil ✨</p>
-
 <p align="center">
-  <img src="geraldin.png" alt="Geraldin Carriazo" width="200" style="border-radius: 50%;">
+  <img src="foto%20mía%20maquillada.png" alt="Geraldin Carriazo" width="200" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy Geraldin Carriazo</h1>
@@ -68,4 +66,5 @@ Actualmente estoy trabajando en la construcción de dashboards interactivos, an�
 ---
 
 <p align="center">✨ Gracias por visitar mi perfil ✨</p>
+
 
