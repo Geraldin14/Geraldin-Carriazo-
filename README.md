@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="foto%20mía%20maquillada.png" alt="Geraldin Carriazo" width="200" style="border-radius: 50%;">
+  <img src="foto%20maquillada.png" alt="Geraldin Carriazo" width="200" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy Geraldin Carriazo</h1>
@@ -46,25 +46,5 @@ Mi enfoque combina **técnica + empatía**: escucho, interpreto y diseño soluci
 
 ## 📂 Proyectos en marcha
 
-Actualmente estoy trabajando en la construcción de dashboards interactivos, análisis exploratorios y modelos predictivos que reflejan mi enfoque técnico y estratégico en el análisis de datos.
-
-🔍 **Te invito a visitar mi portafolio** para conocer más sobre mí, mis habilidades y cómo aplico la analítica a contextos reales:  
-🔗 [Ver Portafolio – Geraldin Carriazo](https://www.notion.so/Portafolio-Analistas-de-Datos-Geraldin-Carriazo-222286f5d5408003b6a2f66a58adc572?source=copy_link)
-
----
-
-## 🤝 ¿Conectamos?
-
-📬 Estoy abierta a nuevas oportunidades, colaboraciones o proyectos relacionados con:
-- Visualización de datos
-- Inteligencia de negocios
-- Análisis predictivo
-
-📫 **Email:** geraldincarriazo09@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/geraldin-carriazo](https://www.linkedin.com/in/geraldin-carriazo/)
-
----
-
-<p align="center">✨ Gracias por visitar mi perfil ✨</p>
-
+Actualmente estoy trabajando en la construcción de dashboards interactivos, análisis exploratorios y modelos predictivos que reflejan mi enfoque técni
 
