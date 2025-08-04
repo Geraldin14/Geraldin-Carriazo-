@@ -2,7 +2,7 @@
 <p align="center">🚀 Analista de Datos | Ingeniera de Sistemas | Visualización Estratégica</p>
 
 <p align="center">
-  💫 <strong>¡Bienvenid@ a mi perfil de GitHub!</strong> 
+  💫 <strong>Bienvenid@ a mi perfil de GitHub </strong> 
   Aquí comparto mi camino en el mundo del análisis de datos y la tecnología. 
   Explora mis proyectos y acompáñame en esta aventura de datos. 📊✨
 </p>
